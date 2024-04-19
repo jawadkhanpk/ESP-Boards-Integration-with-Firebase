@@ -2,20 +2,21 @@
 Integration of ESP32, ESP8266 and RaspberryPi Pico Library with Firebase
 
 
-# (i) New ESP Library GitHub Link:
+## (i) New ESP Library GitHub Link:
  https://github.com/rolan37/Firebase-ESP-Client-main
  
- *download this library and add as a zip library in Arduino IDE*
+ download above library and add as a zip library in Arduino IDE
 
-# (ii) Youtube Video:
+## (ii) Youtube Video:
 https://www.youtube.com/watch?v=6cWhEmgBhbo&t=792s&ab_channel=ElectronicsSimplified
 
-*watch first 13 minutes*
+watch first 13 minutes
 
-# (iii) Arduino IDE Version 2.3.2:
+## (iii) Arduino IDE Version:
+2.3.2
 
 
-# (iv) Source Code for Anonymous Data Logging :
+## (iv) Source Code for Anonymous Data Logging :
 
 ```
 #include <Arduino.h>
