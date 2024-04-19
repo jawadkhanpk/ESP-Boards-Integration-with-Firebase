@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=6cWhEmgBhbo&t=792s&ab_channel=ElectronicsSimplif
 watch first 13 minutes
 
 ## (iii) Arduino IDE Version:
-2.3.2
+**2.3.2**
 
 
 ## (iv) Source Code for Anonymous Data Logging :
