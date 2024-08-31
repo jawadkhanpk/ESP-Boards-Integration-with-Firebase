@@ -2,7 +2,7 @@
 Integration of ESP32, ESP8266 and RaspberryPi Pico Library with Firebase
 
 
-## (i) New ESP Library GitHub Link:
+## (i) New ESP Library GitHub Link (version: 4.3.8):
  https://github.com/rolan37/Firebase-ESP-Client-main
  
  download above library and add as a zip library in Arduino IDE
